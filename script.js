@@ -5,7 +5,6 @@ const vsPlayer = document.querySelector(".select__player");
 const homeSection = document.querySelector(".home__section");
 const gameSection = document.querySelector(".game__section");
 const restartBox = document.querySelector(".restart__box");
-
 const iconXBox = document.querySelector(".icon__x__box");
 const iconOBox = document.querySelector(".icon__o__box");
 const activeIconBox = document.querySelectorAll(".active__icon__box");

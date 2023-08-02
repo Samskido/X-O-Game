@@ -53,11 +53,15 @@
   .select__box p{
     font-size: 15px;
     color: #65e9e4;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   .select__box a{
     font-size: 15px;
     text-decoration: none;
-    color:#ffc860
+    color:#ffc860;
+      margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   .primary__heading {
     font-size: 1.6rem;
@@ -636,6 +640,13 @@
       font-size: 1.9rem;
       letter-spacing: 0.15rem;
     }
+    .select__box a{
+        font-size: 12px;
+        text-decoration: none;
+        color:#ffc860;
+          margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
   }
   
   
